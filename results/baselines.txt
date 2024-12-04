@@ -1,0 +1,330 @@
+Run 1:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.98      0.96      1262
+        True       0.21      0.11      0.14        75
+
+    accuracy                           0.93      1337
+   macro avg       0.58      0.54      0.55      1337
+weighted avg       0.91      0.93      0.92      1337
+
+DBN Confusion Matrix:
+[[1231   31]
+ [  67    8]]
+DBN AUC Score: 0.45680929741151605
+DBN Accuracy Score: 0.9267015706806283
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.96      0.78      0.86      1262
+        True       0.10      0.40      0.16        75
+
+    accuracy                           0.76      1337
+   macro avg       0.53      0.59      0.51      1337
+weighted avg       0.91      0.76      0.82      1337
+
+Defect Prediction Confusion Matrix:
+[[986 276]
+ [ 45  30]]
+Defect Prediction AUC Score: 0.6066719492868463
+Defect Prediction Accuracy Score: 0.7599102468212415
+
+Run 2:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.98      0.97      1262
+        True       0.24      0.08      0.12        75
+
+    accuracy                           0.93      1337
+   macro avg       0.59      0.53      0.54      1337
+weighted avg       0.91      0.93      0.92      1337
+
+DBN Confusion Matrix:
+[[1243   19]
+ [  69    6]]
+DBN AUC Score: 0.6673903856312731
+DBN Accuracy Score: 0.9341810022438295
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.90      0.92      1262
+        True       0.10      0.19      0.13        75
+
+    accuracy                           0.86      1337
+   macro avg       0.52      0.54      0.53      1337
+weighted avg       0.90      0.86      0.88      1337
+
+Defect Prediction Confusion Matrix:
+[[1136  126]
+ [  61   14]]
+Defect Prediction AUC Score: 0.5054252509244586
+Defect Prediction Accuracy Score: 0.8601346297681376
+
+Run 3:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.94      0.95      1262
+        True       0.12      0.13      0.13        75
+
+    accuracy                           0.90      1337
+   macro avg       0.54      0.54      0.54      1337
+weighted avg       0.90      0.90      0.90      1337
+
+DBN Confusion Matrix:
+[[1192   70]
+ [  65   10]]
+DBN AUC Score: 0.44472266244057046
+DBN Accuracy Score: 0.8990276738967838
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.70      0.81      1262
+        True       0.08      0.44      0.13        75
+
+    accuracy                           0.68      1337
+   macro avg       0.52      0.57      0.47      1337
+weighted avg       0.91      0.68      0.77      1337
+
+Defect Prediction Confusion Matrix:
+[[879 383]
+ [ 42  33]]
+Defect Prediction AUC Score: 0.5714580031695721
+Defect Prediction Accuracy Score: 0.6821241585639491
+
+Run 4:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.99      0.97      1262
+        True       0.25      0.05      0.09        75
+
+    accuracy                           0.94      1337
+   macro avg       0.60      0.52      0.53      1337
+weighted avg       0.91      0.94      0.92      1337
+
+DBN Confusion Matrix:
+[[1250   12]
+ [  71    4]]
+DBN AUC Score: 0.4415636555731643
+DBN Accuracy Score: 0.9379207180254301
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.96      0.78      0.86      1262
+        True       0.09      0.39      0.15        75
+
+    accuracy                           0.75      1337
+   macro avg       0.52      0.58      0.50      1337
+weighted avg       0.91      0.75      0.82      1337
+
+Defect Prediction Confusion Matrix:
+[[979 283]
+ [ 46  29]]
+Defect Prediction AUC Score: 0.5843264659270998
+Defect Prediction Accuracy Score: 0.7539267015706806
+
+Run 5:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.99      0.97      1262
+        True       0.27      0.05      0.09        75
+
+    accuracy                           0.94      1337
+   macro avg       0.61      0.52      0.53      1337
+weighted avg       0.91      0.94      0.92      1337
+
+DBN Confusion Matrix:
+[[1251   11]
+ [  71    4]]
+DBN AUC Score: 0.5780876914949815
+DBN Accuracy Score: 0.9386686611817502
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.96      0.80      0.87      1262
+        True       0.10      0.37      0.16        75
+
+    accuracy                           0.78      1337
+   macro avg       0.53      0.59      0.51      1337
+weighted avg       0.91      0.78      0.83      1337
+
+Defect Prediction Confusion Matrix:
+[[1009  253]
+ [  47   28]]
+Defect Prediction AUC Score: 0.6091389329107236
+Defect Prediction Accuracy Score: 0.7756170531039641
+
+Run 6:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.94      0.95      1262
+        True       0.12      0.13      0.13        75
+
+    accuracy                           0.90      1337
+   macro avg       0.54      0.54      0.54      1337
+weighted avg       0.90      0.90      0.90      1337
+
+DBN Confusion Matrix:
+[[1191   71]
+ [  65   10]]
+DBN AUC Score: 0.5984204965662968
+DBN Accuracy Score: 0.8982797307404637
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.96      0.60      0.74      1262
+        True       0.09      0.63      0.15        75
+
+    accuracy                           0.60      1337
+   macro avg       0.52      0.61      0.45      1337
+weighted avg       0.92      0.60      0.71      1337
+
+Defect Prediction Confusion Matrix:
+[[759 503]
+ [ 28  47]]
+Defect Prediction AUC Score: 0.6116006339144215
+Defect Prediction Accuracy Score: 0.6028421839940165
+
+Run 7:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.99      0.97      1262
+        True       0.25      0.05      0.09        75
+
+    accuracy                           0.94      1337
+   macro avg       0.60      0.52      0.53      1337
+weighted avg       0.91      0.94      0.92      1337
+
+DBN Confusion Matrix:
+[[1250   12]
+ [  71    4]]
+DBN AUC Score: 0.5834759640781829
+DBN Accuracy Score: 0.9379207180254301
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.97      0.66      0.79      1262
+        True       0.10      0.61      0.17        75
+
+    accuracy                           0.66      1337
+   macro avg       0.53      0.64      0.48      1337
+weighted avg       0.92      0.66      0.75      1337
+
+Defect Prediction Confusion Matrix:
+[[838 424]
+ [ 29  46]]
+Defect Prediction AUC Score: 0.6910248283148441
+Defect Prediction Accuracy Score: 0.6611817501869858
+
+Run 8:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.94      0.95      1262
+        True       0.12      0.13      0.13        75
+
+    accuracy                           0.90      1337
+   macro avg       0.54      0.54      0.54      1337
+weighted avg       0.90      0.90      0.90      1337
+
+DBN Confusion Matrix:
+[[1191   71]
+ [  65   10]]
+DBN AUC Score: 0.480338087691495
+DBN Accuracy Score: 0.8982797307404637
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.72      0.82      1262
+        True       0.08      0.41      0.13        75
+
+    accuracy                           0.70      1337
+   macro avg       0.52      0.57      0.48      1337
+weighted avg       0.90      0.70      0.78      1337
+
+Defect Prediction Confusion Matrix:
+[[907 355]
+ [ 44  31]]
+Defect Prediction AUC Score: 0.587649234020074
+Defect Prediction Accuracy Score: 0.7015706806282722
+
+Run 9:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.99      0.97      1262
+        True       0.25      0.05      0.09        75
+
+    accuracy                           0.94      1337
+   macro avg       0.60      0.52      0.53      1337
+weighted avg       0.91      0.94      0.92      1337
+
+DBN Confusion Matrix:
+[[1250   12]
+ [  71    4]]
+DBN AUC Score: 0.3682514527205494
+DBN Accuracy Score: 0.9379207180254301
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.72      0.82      1262
+        True       0.07      0.39      0.13        75
+
+    accuracy                           0.70      1337
+   macro avg       0.51      0.55      0.47      1337
+weighted avg       0.90      0.70      0.78      1337
+
+Defect Prediction Confusion Matrix:
+[[903 359]
+ [ 46  29]]
+Defect Prediction AUC Score: 0.5574801901743266
+Defect Prediction Accuracy Score: 0.6970830216903515
+
+Run 10:
+DBN Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.98      0.96      1262
+        True       0.21      0.08      0.12        75
+
+    accuracy                           0.93      1337
+   macro avg       0.58      0.53      0.54      1337
+weighted avg       0.91      0.93      0.92      1337
+
+DBN Confusion Matrix:
+[[1240   22]
+ [  69    6]]
+DBN AUC Score: 0.5890649762282092
+DBN Accuracy Score: 0.9319371727748691
+
+Defect Prediction Classification Report for lucene-2.9.0_ground-truth-files_dataset to lucene-3.0.0_ground-truth-files_dataset:
+              precision    recall  f1-score   support
+
+       False       0.95      0.85      0.90      1262
+        True       0.09      0.27      0.14        75
+
+    accuracy                           0.81      1337
+   macro avg       0.52      0.56      0.52      1337
+weighted avg       0.90      0.81      0.85      1337
+
+Defect Prediction Confusion Matrix:
+[[1068  194]
+ [  55   20]]
+Defect Prediction AUC Score: 0.5396830427892235
+Defect Prediction Accuracy Score: 0.8137621540762902
+

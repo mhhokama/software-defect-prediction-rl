@@ -1,0 +1,15 @@
+Final selected actions: {2432, 1797, 2189, 1948, 927, 1832, 1325, 3506, 3509, 3510, 1463, 2485, 1981, 958, 194, 77, 2260, 3285, 1119, 2277, 487, 1514, 1388, 1516, 3325}
+
+accuracy: 0.9162303664921466
+classification report:               precision    recall  f1-score   support
+
+           0       0.98      0.94      0.95      1262
+           1       0.35      0.60      0.45        75
+
+    accuracy                           0.92      1337
+   macro avg       0.66      0.77      0.70      1337
+weighted avg       0.94      0.92      0.93      1337
+. 
+ confusion matrix: [[1180   82]
+ [  30   45]]
+ auc: 0.8798943475964077

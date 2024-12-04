@@ -1,0 +1,15 @@
+Final selected actions: {0, 1, 2, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 17, 20, 21, 26, 29, 33}
+
+accuracy: 0.912490650710546
+classification report:               precision    recall  f1-score   support
+
+           0       0.97      0.93      0.95      1262
+           1       0.33      0.55      0.41        75
+
+    accuracy                           0.91      1337
+   macro avg       0.65      0.74      0.68      1337
+weighted avg       0.94      0.91      0.92      1337
+. 
+ confusion matrix: [[1179   83]
+ [  34   41]]
+ auc: 0.887770734284205

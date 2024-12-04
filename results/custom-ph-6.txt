@@ -1,0 +1,14 @@
+Final selected actions: {13, 2199, 2847, 2986, 1713, 433, 3252, 2238, 3008, 2115, 2378, 3411, 2012, 3557, 3685, 1641, 1514, 1396, 1144, 2812}
+training on whole training set and testing on test set
+accuracy: 0.9042632759910246, 
+ auc: 0.8771156893819334,
+ confusion matrix: [[1170   92]
+ [  36   39]],
+ classification report:               precision    recall  f1-score   support
+
+           0       0.97      0.93      0.95      1262
+           1       0.30      0.52      0.38        75
+
+    accuracy                           0.90      1337
+   macro avg       0.63      0.72      0.66      1337
+weighted avg       0.93      0.90      0.92      1337

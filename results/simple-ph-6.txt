@@ -1,0 +1,14 @@
+Final selected actions: {0, 1, 4, 5, 6, 10, 13, 14, 15, 17, 20, 26, 29, 33, 34, 40, 41, 44, 48, 54}
+training on whole training set and testing on test set
+accuracy: 0.9057591623036649, 
+ auc: 0.8901796090861067,
+ confusion matrix: [[1174   88]
+ [  38   37]],
+ classification report:               precision    recall  f1-score   support
+
+           0       0.97      0.93      0.95      1262
+           1       0.30      0.49      0.37        75
+
+    accuracy                           0.91      1337
+   macro avg       0.63      0.71      0.66      1337
+weighted avg       0.93      0.91      0.92      1337

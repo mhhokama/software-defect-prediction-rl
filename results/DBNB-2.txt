@@ -1,0 +1,15 @@
+Final selected actions: DBNB
+classification report:
+              precision    recall  f1-score   support
+
+       False       0.95      0.90      0.92      1262
+        True       0.10      0.19      0.13        75
+
+    accuracy                           0.86      1337
+   macro avg       0.52      0.54      0.53      1337
+weighted avg       0.90      0.86      0.88      1337
+
+confusion matrix: [[1136  126]
+ [  61   14]]
+auc: 0.5054252509244586
+accuracy: 0.8601346297681376
